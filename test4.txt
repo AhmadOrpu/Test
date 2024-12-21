@@ -1,1 +1,2 @@
-I am test 4 from development 2 branch
+I am test 4 from development 2 branch.
+logo alignment is centered .
